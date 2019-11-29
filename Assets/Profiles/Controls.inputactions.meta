@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 4c3e1779118af0040a288e64664bcc77
+ScriptedImporter:
+  fileIDToRecycleName:
+    11400000: <root>
+    11400002: Player/Movment
+    11400004: Player/Shooting
+    11400006: Player/WeaponChange
+    11400008: Player/Rotation
+    11400010: Player/UI-Restart
+    11400012: Player/UI-Exit
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: e2fdc6edf8744b38b702a2a5ee3541b2, type: 3}
+  generateWrapperCode: 1
+  wrapperCodePath: 
+  wrapperClassName: 
+  wrapperCodeNamespace: 
+  generateActionEvents: 0
+  generateInterfaces: 0
+  actionGuids: []
+  actionMapGuids: []
